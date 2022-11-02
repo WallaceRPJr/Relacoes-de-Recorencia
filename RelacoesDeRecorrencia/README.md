@@ -1,18 +1,24 @@
-## Getting Started
+# Rlações de Recorrência
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/WallaceRPJr/Relacoes-de-Recorencia/blob/main/LICENSE) 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Sobre o projeto
 
-## Folder Structure
+Projeto acadêmico, onde caucula as relações de recorrecorrência entre os metodos de ordenação: MergeSort e InsertionSort, ambos recursivos.  
 
-The workspace contains two folders by default, where:
+## Resultados das buscas:
+![Resultado](https://github.com/WallaceRPJr/Relacoes-de-Recorencia/blob/main/assets/Tabela.png) 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Conferência
+![Codigo](https://github.com/WallaceRPJr/Relacoes-de-Recorencia/blob/main/assets/Vetor%2016%20posi%C3%A7%C3%B5es.png)
+![Exel](https://github.com/WallaceRPJr/Relacoes-de-Recorencia/blob/main/assets/Exel%2016%20posi%C3%A7oes.png)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+# Tecnologias utilizadas
+- Java
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# Autor
+
+Wallace Ricardo Pereira Junior
+
+https://www.linkedin.com/in/wallace-junior-976809235/
