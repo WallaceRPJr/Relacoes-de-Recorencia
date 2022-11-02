@@ -7,6 +7,7 @@ public class App {
   public static void main(String[] args) {
     int vectorSize = 100000;
     // max 27000;
+    // ola mundo
     Random random = new Random();
     int[] v = new int[vectorSize];
     // int[] v = { 12, 72, 26, 54, 98, 73, 0, 59, 30, 25, 62, 11, 61, 67, 33, 2 };
